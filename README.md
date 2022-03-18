@@ -1,7 +1,7 @@
 # ENDAVA CHALLENGES INDEX
 
 ## 2. Dynamic Programming
-#### *Week 1* 
+#### *Week 1 / Week 2* 
 
 Evaluate how you solve an optimization problem using dynamic programming.
 

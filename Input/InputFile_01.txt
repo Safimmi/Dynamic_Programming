@@ -1,0 +1,7 @@
+6
+Elevator, 57
+Hall, 889
+Ping Pong, 546
+Cafeteria, 867
+Terrace, 587
+Terrace offices, 34
