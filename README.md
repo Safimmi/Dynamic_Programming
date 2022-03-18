@@ -1,4 +1,4 @@
-# ENDAVA CHALLENGES INDEX
+# ENDAVA CHALLENGES 
 
 ## 2. Dynamic Programming
 #### *Week 1 / Week 2* 
